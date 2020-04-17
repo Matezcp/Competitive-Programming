@@ -1,5 +1,7 @@
 #include <stdio.h>
-#DEFINE int bool
+#define bool int
+#define false 1
+#define true 0
 int main(){
 	
 	int r;
